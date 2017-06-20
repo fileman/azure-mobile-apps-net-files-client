@@ -1,0 +1,9 @@
+﻿<Application
+    x:Class="Microsoft.WindowsAzure.Mobile.Files.Test.Windows.EndToEnd.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Microsoft.WindowsAzure.Mobile.Files.Test.Windows.EndToEnd"
+    RequestedTheme="Light">
+    
+    
+</Application>
